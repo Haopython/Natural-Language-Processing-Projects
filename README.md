@@ -11,7 +11,7 @@ Highlights
 
 ![PhilosophynovelsDendrgram](https://user-images.githubusercontent.com/44904887/57596316-4edf7900-7507-11e9-933d-fa5e8d2b4878.JPG)
 
-Thanks for the publications:
+Citations:
 
 https://www.gutenberg.org/
 
