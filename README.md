@@ -12,5 +12,7 @@ Highlights
 Thanks for the publications:
 
 https://www.gutenberg.org/
+
 https://deepmind.com/research/publications/
+
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt
