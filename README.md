@@ -1,4 +1,4 @@
-# Natural-Language-Processing-Projects NLP:)
+# Natural-Language-Processing-Projects:)
 Really into NLP right now and here are some projects I done with the techniques I gained. It's very interesting showing what words are popular in the literature communities.
 
 Highlights
